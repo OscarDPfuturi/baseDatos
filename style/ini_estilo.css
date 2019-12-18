@@ -1,0 +1,32 @@
+.login{
+	text-align: center;
+}
+.login td{
+	padding:2px;
+}
+#inises{
+	margin: 0px 20%;
+	width: 60%;
+	padding-top: 1px;
+	padding-bottom: 10px;
+	border-radius:15px;
+	background-color:  rgb(233, 235, 238);
+}
+body{
+	text-align: center;
+	margin: 10% 0px;
+	background-size: cover;
+	background-image: url("../img/fondoini1.jpg");
+	font-size: 1em;
+	font-family: arial ;
+}
+#input{
+	border-radius:15px; 
+	padding: 5px 8px;
+}
+#boton{
+	width: 200px;
+	height: 40px; 
+	font-size: 15pt;
+	background: #3773da;
+	color: white;

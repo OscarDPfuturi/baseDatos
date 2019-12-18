@@ -1,0 +1,128 @@
+
+
+h1{
+	text-align: center;
+	font-size: 12pt;
+}
+
+
+.cabezera{
+	background: black;
+	width: 940px;
+	height: 20px;
+	margin:auto;
+	color: white;
+	padding: 8px;
+	border-radius: 5px;
+	text-align: left;
+	font-size: 16px;
+	font-family: arial;
+}
+.caja{
+	background: blue;
+	color: white;
+	float: left;
+	width: 180px;
+	height: 280px;
+	text-align: center;
+	border:1px solid #E2E2E2;
+	border-radius: 10px;
+}
+
+.contenedor{
+	background: white;
+	width: 800px;
+	height: 400px;
+	margin:auto;
+	margin-top: 20px;
+}
+.cajasola{
+	background: white;
+	float: left;
+	width: 250px;
+	height: 400px;
+	text-align: center;
+	border: 1px solid #E2E2E2;
+	border-radius: 10px;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+
+.cajaDes{
+	background: white;
+	float: left;
+	width: 250px;
+	height: auto;
+	text-align: left;
+	border: 0px solid #E2E2E2;
+	border-radius: 10px;
+	padding: 15px;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	font-size: 15px;
+}
+
+.boton{
+	display: inline-block;
+	zoom: 2;
+	*display: inline;
+	vertical-align: baseline;
+	cursor:pointer;
+	text-decoration: none;
+	font: 10px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	
+}
+
+
+
+body{
+	text-align: center;
+	margin: 10% 0px;
+	background-image: url("../img/fondo2.png");
+	font-size: 1em;
+	font-family: arial;
+}
+header{
+	margin: 0;
+	background: #2E2EFE;	
+	color:#FE2E2E;
+	text-align: center; ;
+	position: 1em 0;
+	border-bottom: 5px solid #000;
+
+}
+nav{
+	text-align: center;
+	margin-top: 0.7em;
+}
+nav li{
+	display: inline-block;
+	list-style: none;
+}
+nav li a{
+	text-decoration: none;
+	background: #0489B1;
+	color: #fff;
+	border-radius: 3px;
+	padding: 0.6em 0.3em;
+	box-shadow: 5px 5px 5px #333;
+}
+nav li a:hover {
+	text-decoration: none;
+	background: #AAE9F8;
+	color: #fff;
+	border-radius: 3px;
+	padding: 0.6em 0.3em;
+}
+footer{
+	border-top: 3px solid #000;
+	background: #848484;
+	color:#FF0000;
+	text-align: center;
+	font-size: 0.7em;
+	padding: 1em 0;
+}
+section#contenido{
+	background: #fff;
+	padding: 1em ;
+	margin: 2em auto;
+	width: 80%;
+}

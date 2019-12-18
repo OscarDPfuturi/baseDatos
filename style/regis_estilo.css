@@ -1,0 +1,37 @@
+body{
+	text-align: left;
+	margin: 10% 0px;
+	background-size: cover;
+	background-image: url("../img/fondoini1.jpg");
+	font-family: arial;
+}
+#tabla_reg{
+	margin-top: 10%;
+	width:500px;
+	padding: 10px 0px;
+	
+	background: rgb(233, 235, 238);
+}
+#tabla_reg td{
+	padding: 2px;
+	
+}
+#input{
+	border-radius:15px; 
+	padding: 5px 8px;
+}
+#boton{
+	width: 150px;
+	height: 40px; 
+	font-size: 15pt;
+	background: #3773da;
+	color: white;
+}
+
+#form{
+	background: rgb(233, 235, 238);
+	border-radius:15px;
+	width: 50%;
+	margin: 0px 25%;
+	padding-bottom: 10px; 
+}

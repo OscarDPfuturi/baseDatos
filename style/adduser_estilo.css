@@ -1,0 +1,54 @@
+body{
+	padding:100px 35% 0px 35%;
+	text-align: left;
+	font: 30px MiFuente, sans-serif;
+	background-image: url("../img/fondo2.png"); 
+}
+@font-face{
+	font-family: 'MiFuente';
+	src: url('../fuente/ZillaSlab-Regular.otf');
+}
+table{
+	width: 100%;
+	margin-bottom: 0px;
+	font-size: 30px;
+}
+th{
+	background: #0CE978;
+	font-size: 20px;
+}
+td{
+	background: #0CE978;
+	font-size: 20px;
+	padding-left: 2px;
+}
+#input{
+	padding-left: 10px;
+}
+.detalle{
+	width: 100px;
+	font: 14pt bold;
+}
+#submit{
+	width: 120px;
+	height: 40px; 
+	font-size: 15pt;
+	margin-right: 10px;
+}
+#descripcion{
+	width: 90%;
+	height: 100%;
+}
+#figura{
+	width: 100%;
+	margin: 0px;
+}
+#boton{
+	width: 120px;
+	height: 40px; 
+	font-size: 15pt;
+	margin-left: 10px;
+}
+.botones{
+	padding-top: 2px;
+}

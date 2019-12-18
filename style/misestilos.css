@@ -1,0 +1,22 @@
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0px;
+}
+.banner{
+	margin-top: 0px;	 
+}
+.caja{
+	background: #80DEEA;
+	color: white;
+	float: left;
+	width: 350px;
+	height: 320px;
+	text-align: center;
+	border:1px solid #E2E2E2;
+	border-radius: 10px;
+}

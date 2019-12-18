@@ -1,0 +1,51 @@
+body{
+	padding:20px 30% 0px 30%;
+	margin: 0px;
+ 	font: 30px MiFuente, sans-serif;
+	text-align: left;
+	background-image: url("../img/fondo2.png"); 
+}
+@font-face{
+	font-family: 'MiFuente';
+	src: url('../fuente/ZillaSlab-Regular.otf');
+}
+table{
+	width: 100%;
+	margin: 0px;
+
+}
+
+td{
+	background: #0489B1;
+	font: 20px MiFuente, sans-serif;
+}
+.detalle{
+	width: 50px;
+}
+#submit{
+	width: 120px;
+	height: 40px; 
+	font-size: 15pt;
+	margin-right: 20px;
+}
+#descripcion{
+	width: 30em;
+	height: 50px;
+	font-size: 13px;
+	padding-top: 0px;
+}
+#figura{
+	width: 90%;
+	height: 90%;
+	margin: 0px;
+	padding: 0px;
+}
+#boton{
+	width: 120px;
+	height: 40px; 
+	font-size: 15pt;
+	margin-left: 20px;
+}
+.botones{
+	padding-top: 2px;
+}
